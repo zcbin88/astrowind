@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Chainfind
+  site: 'https://chainfind.cn'
   base: '/'
   trailingSlash: false
 
